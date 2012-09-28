@@ -2,7 +2,7 @@
   "name": "regulated-express",
   "version": "0.0.1",
   "description": "regulated express",
-  "main": "index.js",
+  "main": "lib/regulated-express.js",
   "dependencies": {
     "express": "*"
   },
